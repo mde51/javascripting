@@ -12,7 +12,7 @@ function total(t){
     }
         return a
 
-}
+    }
 
 
 //* Begin of tests
